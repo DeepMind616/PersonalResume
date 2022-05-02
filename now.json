@@ -1,0 +1,7 @@
+{
+    "version": 2,
+    "name": "next-porffolio",
+    "builds": [
+        {"src": "package.json", "use": "@now/static-build"}
+    ]
+}
